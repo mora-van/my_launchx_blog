@@ -1,8 +1,9 @@
 ---
 title: "Post inicial"
 date: 2022-04-08
-description: 'Desconocido'
+description: 'Aprendiendo'
 ---
+
 Estar en esta experiencia ha sido gratificante pero también un poco frustante.
 El haber tomado las clases del onboarding y de front end me ayudaron a no olvidar lo que es aprender por cuenta propia.
 Aborde este viaje con conocimientos previos de <em>html</em> y <em>css</em>, los cuales me ayudaron a comprender más fácil los contenidos de dichos temas. 
