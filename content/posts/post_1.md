@@ -1,7 +1,7 @@
 ---
-title: "Desconocido"
+title: "Post inicial"
 date: 2022-04-08
-description: 'Descripción de tu blog post'
+description: 'Desconocido'
 ---
 Estar en esta experiencia ha sido gratificante pero también un poco frustante.
 El haber tomado las clases del onboarding y de front end me ayudaron a no olvidar lo que es aprender por cuenta propia.
