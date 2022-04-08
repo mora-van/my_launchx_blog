@@ -1,13 +1,13 @@
 {
   "links": [
     {
-      "name": "twitter",
-      "url": "https://twitter.com/zerostaticio",
+      "name": "Twitter",
+      "url": "https://twitter.com/ovejanegraf",
       "image": "images/social/twitter.svg"
     },
     {
       "name": "github",
-      "url": "https://github.com/zerostaticthemes",
+      "url": "https://github.com/mora-van",
       "image": "images/social/github.svg"
     }
   ]
